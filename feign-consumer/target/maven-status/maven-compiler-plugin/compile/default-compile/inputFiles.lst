@@ -1,0 +1,5 @@
+/Users/wangfeng/Workspaces/lntellijIDEA/feign-parent/feign-consumer/src/main/java/com/wang/consumer/ConsumerApp.java
+/Users/wangfeng/Workspaces/lntellijIDEA/feign-parent/feign-consumer/src/main/java/com/wang/consumer/config/RestTemplateConfig.java
+/Users/wangfeng/Workspaces/lntellijIDEA/feign-parent/feign-consumer/src/main/java/com/wang/consumer/domain/Goods.java
+/Users/wangfeng/Workspaces/lntellijIDEA/feign-parent/feign-consumer/src/main/java/com/wang/consumer/feign/GoodsFeignClient.java
+/Users/wangfeng/Workspaces/lntellijIDEA/feign-parent/feign-consumer/src/main/java/com/wang/consumer/controller/OrderController.java
