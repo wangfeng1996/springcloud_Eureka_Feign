@@ -11,3 +11,12 @@ eureka:
 spring:
   application:
     name: feign-consumer # 设置当前应用的名称。将来会在eureka中Application显示。将来需要使用该名称来获取路径
+
+# 设置ribbon的超市时间（Feign地层是采用ribbon的封装）
+ribbon:
+  ConnectTimeout: 1000 # 连接超时时间  毫秒
+  ReadTime: 3000  # 逻辑处理超时时间   毫秒
+
+logging:
+  level:
+    com.wang: debug
